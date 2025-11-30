@@ -1,0 +1,414 @@
+{
+  "show_title": "Breaking Bad",
+  "year": "2013",
+  "seasons": "5 Seasons",
+  "rating": "\u206816+\u2069",
+  "genre": "Drama",
+  "description": "A terminally ill chemistry teacher teams with a former student to manufacture crystal meth to secure his family's future.",
+  "starring": "Bryan Cranston, Aaron Paul, and Anna Gunn",
+  "creators": "Bryan Cranston, Aaron Paul, and Anna Gunn",
+  "genres": "TV Dramas, US TV Shows, and TV Thrillers",
+  "show_characteristics": "Violent, Suspenseful, Thriller, Tortured Genius, Critically Acclaimed, Drug Lord, and TV",
+  "audio": "English - Audio Description, English [Original], and French",
+  "subtitles": "English, French",
+  "cast": "Bryan Cranston, Aaron Paul, Anna Gunn, Dean Norris, Betsy Brandt, RJ Mitte, Bob Odenkirk, Steven Michael Quezada, Jonathan Banks, and Giancarlo Esposito",
+  "Poster": "https://occ-0-768-769.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRDsqXV6D4Ifl5dukN9R9xIMMnkl_3sr5nqvHls9l8hPxum7xzcMkFIRJWTD8XtCzFcc3do5LRcCOoIOcW6b_LWBdMpv_vp30bil.webp?r=9ff",
+  "seasons_data": [
+    {
+      "Season 1": [
+        {
+          "title": "1. Pilot",
+          "description": "Diagnosed with terminal lung cancer, a high school chemistry teacher resorts to cooking and selling methamphetamine to provide for his family.",
+          "duration": "58m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZjc2x8SYOtNXhQZecm0kZY0aIRetfTL_wqLWb7jZ0XHZ_4u5PpiIQytMttxHXdyFkAETusD3C0bHNN9w2WLu-SaNQ6eE0nNKSm2Ao9DvxBJZnWfmqODyIRW.webp?r=dde",
+          "filename": "Breaking_Bad_S01E01.mkv",
+          "url": "https://filemoon.sx/e/fbiencbycyd4"
+        },
+        {
+          "title": "2. The Cat's in the Bag",
+          "description": "Their first aborted drug deal forces Walt and Jesse to dispose of a pair of corpses. Meanwhile, Skyler suspects that her husband is up to no good.",
+          "duration": "48m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcHRjZtFZFC69jyNnQicVatzBd2PGpsC68Z5DhjSMW80u8jPxZi_P5Ifpk58u48W5qYJf1heRS5wXHol691mY4lKGQww2mr9Eseg0xKR4_hYmSNmKKSWXK43.webp?r=910",
+          "filename": "Breaking_Bad_S01E02.mkv",
+          "url": "https://filemoon.sx/e/y9yvg8s78sfa"
+        },
+        {
+          "title": "3. And the Bag's in the River",
+          "description": "As Walt cleans up the mess that was left after his first drug deal, Skyler gets too close to the truth about his double life.",
+          "duration": "48m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSbUAc6gUHyvaRAfu9lZDtUoidrpGaEBfkFzzjtQNjRcjvvpzug_GK4kxFoD_cMPVL5XEYeSSa0j5yrxEiWEEYIaBEUElWUc9tpTk4YC7HEqjRTT9gGn_Jl2.webp?r=ea1",
+          "filename": "Breaking_Bad_S01E03.mkv",
+          "url": "https://filemoon.sx/e/x1dzfw3yb2hg"
+        },
+        {
+          "title": "4. Cancer Man",
+          "description": "Being forced to reveal the truth about his illness leaves Walt facing the dilemma of how to pay for an expensive series of cancer treatments.",
+          "duration": "48m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQRvZg0N2EQrZRpirGcI79lgDgV-ny4de0_l9k_GSWIhThsgWq_g_e6cVe3f3SGHBOg1rC_SpBbDCpzDh5ewT8aRR_MCrhMbWb6yxGevlz4m2yeXzYee270Q.webp?r=f8d",
+          "filename": "Breaking_Bad_S01E04.mkv",
+          "url": "https://filemoon.sx/e/26soj0utopa0"
+        },
+        {
+          "title": "5. Gray Matter",
+          "description": "Skyler organizes an intervention to persuade Walt to accept his former research partner's generous offer to pay for the cancer treatments.",
+          "duration": "48m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWdHGffpOVjXl5_EtoHNKQAocQbI4CcCocLIQ7hOMlBT1YIxrv8IszAm4sxHkJPnudeSpXSTiCgGZyobdlL3q9U-GEeYAOz_J2zrXaLhoyM_dauGfrb0fO79.webp?r=2cc",
+          "filename": "Breaking_Bad_S01E05.mkv",
+          "url": "https://filemoon.sx/e/5mnb50m3evhu"
+        },
+        {
+          "title": "6. Crazy Handful of Nothin'",
+          "description": "With the side effects and cost of his treatment mounting, Walt demands that Jesse find a wholesaler to buy their drugs -- which lands him in trouble.",
+          "duration": "48m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABc7GdGriwlXSLjCdp8DQZsrQ-mbsqT11QWMwfJUT5CsMW_3xn9UVF9uduedX0TChfDWEwQDR08ewXBpfNd7OTVzfych-djtxzx6mRKbKLoveAyV_-DoH06HG.webp?r=e4a",
+          "filename": "Breaking_Bad_S01E06.mkv",
+          "url": "https://filemoon.sx/e/4ldj9iyesmax"
+        },
+        {
+          "title": "7. A No-Rough-Stuff-Type Deal",
+          "description": "After Jesse's brush with death, Walt agrees to produce even more drugs for the ruthless Tuco. Meanwhile, Skyler suspects her sister of shoplifting.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYVeXrJnFUcLuES-JKmvB8v3fpPCMBPJETIB_XDxy6zpY4kq22K5wXFgXj2m8oE6OlZezbjfWinri2H9d2bWtgvflvMfIcFYBqIky4QlvnC0BHe1-Xn52YEr.webp?r=0b0",
+          "filename": "Breaking_Bad_S01E07.mkv",
+          "url": "https://filemoon.sx/e/4roo2yag0oqv"
+        }
+      ]
+    },
+    {
+      "Season 2": [
+        {
+          "title": "1. Seven Thirty-Seven",
+          "description": "As they lay plans for their final big drug deals, Walt and Jesse worry that their sole buyer will think nothing of killing them when it suits him.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABepcUG4ZhCgOD-VKzIQrE7cecnHUx-f-vn-Uf24ER1-F4cL1sfV727IbEIsg5WoAWaGqvGJlDQSZUpvwMqZX0GQtab3Tr9kY1NnpwjmcsDLQ3SZ_b0Daqy2A.webp?r=4c4",
+          "filename": "Breaking_Bad_S02E01.mkv",
+          "url": "https://filemoon.sx/e/d4rj8ue85ci9"
+        },
+        {
+          "title": "2. Grilled",
+          "description": "As a DEA manhunt for Tuco gets under way, Skyler enlists Hank in the search for Walt.",
+          "duration": "48m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZyYdclJDfZe5GT0fcaxx_4lQ590-kUzgQNOmvz-wpz0RASJnKC_bu7FNmL3lzyu3CljVwLiP8s5d61_LZAHtaV_G4YGoTpTr8vGrEQVwSJrQJ71JPfohNHb.webp?r=829",
+          "filename": "Breaking_Bad_S02E02.mkv",
+          "url": "https://filemoon.sx/e/6tecyzza5dj6"
+        },
+        {
+          "title": "3. Bit by a Dead Bee",
+          "description": "As Hank comes dangerously close to uncovering Walt's role in the drug trade, he devises a plan to cover his tracks.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTsu97lfp7-4bQU71sY0se6ZJovIVnGlU_xsPcm-xSydROoWWwX4qHMCBj_DNko2hlHpn9F_I5zxdFmEUkIyZOKJogSgYFSqSRtazhuVfoBpU4RAWgxBDOsE.webp?r=4e9",
+          "filename": "Breaking_Bad_S02E03.mkv",
+          "url": "https://filemoon.sx/e/8dcka2yjj4fl"
+        },
+        {
+          "title": "4. Down",
+          "description": "With Walt struggling to bridge the growing gulf between him and Skyler, Jesse finds himself without a home after his parents evict him.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdQEa17LOnJhRVc4bSTDQ1OHACb1EDjEwUPrvWAeQ45TD4Vl_tSr6YGU_ta9Nmbf9IIqZciIQ6PMU6vQ4kA6j0UIvaT8Wcww29nSCwjyVnRIIJ09hDezNqOQ.webp?r=5c3",
+          "filename": "Breaking_Bad_S02E04.mkv",
+          "url": "https://filemoon.sx/e/ztgbws1rewvp"
+        },
+        {
+          "title": "5. Breakage",
+          "description": "Hank tries to pull himself together after his encounter with Tuco. Meanwhile, Jesse assembles a crew to get more product on the street.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcin1xHOAH-WO_Z2meFpo0WoiE1hPWHwXfx-rsFdXYH5096HhmOfqAmIUTEiRweWlDMUWa0aJI0YG_iPlZiey7T2DIlQGg1VgG5CrNI4I-NnFvbb-8F0ver2.webp?r=6e5",
+          "filename": "Breaking_Bad_S02E05.mkv",
+          "url": "https://filemoon.sx/e/nd9vczn51aki"
+        },
+        {
+          "title": "6. Peekaboo",
+          "description": "As Jesse pursues the addicts who stole Skinny Pete's drug supply, Walt devises a cover story to explain how he's been paying for his treatments.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYKq_kJtOfBmYekfneKKDChIQ_wFv_MLZQXnRTaI0l1cNnszcBN9SruVzLYHwBh9IN5Du_zS7Vs2v4JYMMqKh_IvHRe88BlDt6IXbnJKWfMpAaI-_3AM789T.webp?r=34c",
+          "filename": "Breaking_Bad_S02E06.mkv",
+          "url": "https://filemoon.sx/e/1x2vhbydevkx"
+        },
+        {
+          "title": "7. Negro y Azul",
+          "description": "As Jesse's reputation as a drug lord leads Walt to push for expansion of the operation, Hank's foray into the DEA's El Paso office leaves him shaken.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQVpYnKEr-Tk8ADTy58E37ZVQzYjuwhHvryK2bJPr3-7cGyXEExKZgNk79TMr4CaBvn_V8zyhgEI4z8KEXkVoiwUp-7AFLvnHwAOq0xrblQY-yof5sudQQ7a.webp?r=3a0",
+          "filename": "Breaking_Bad_S02E07.mkv",
+          "url": "https://filemoon.sx/e/2zq73oc8cwwi"
+        },
+        {
+          "title": "8. Better Call Saul",
+          "description": "Badger's arrest forces Walt and Jesse into league with a shady lawyer.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRmJRnvLdP6crwaL1mZlsu_rCEWtLkpT2FkZNxjf8rFsCM7oH4AkBDzw4RWid666ZydyFgQqa2ihWRcrGZXiZ0nnNv778g9LqGvyu7xrDBGSUab1tiKpl7T6.webp?r=922",
+          "filename": "Breaking_Bad_S02E08.mkv",
+          "url": "https://filemoon.sx/e/lzcyj3w5ncn0"
+        },
+        {
+          "title": "9. 4 Days Out",
+          "description": "Worried that he doesn't have much longer to live, Walt looks to provide for his family by enlisting Jesse for a marathon meth-cooking session.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZDZHMkHGT9g1hgcIxsut-Sy5r4iA-qda5yj8bglfNYIFCsbxlWUrGUSjj-dfETVVw9lGpgpW8_u0uUgfMM67E3vaBjQqrFXrV8IptjBKOVmiu2NBBPuZtJ4.webp?r=4f1",
+          "filename": "Breaking_Bad_S02E09.mkv",
+          "url": "https://filemoon.sx/e/3owsr1x098pm"
+        },
+        {
+          "title": "10. Over",
+          "description": "In the wake of good news about his cancer treatments, Walt turns on his brother-in-law before focusing his attention on making things right at home.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABf1Y3n8RwBtt3f7kpjWA1xOXFWiwQ1RRRYpqRtXQaaUMHW9VU0Or7QjY35GNR68b9vZFVJg2fcvHBCKmDzdZZNGybTSvRNj0GI5TLamTHTLHU0bxx5XjGCPB.webp?r=c3b",
+          "filename": "Breaking_Bad_S02E10.mkv",
+          "url": "https://filemoon.sx/e/u7ygcgql3r05"
+        }
+      ]
+    },
+    {
+      "Season 3": [
+        {
+          "title": "1. No M\u00e1s",
+          "description": "Skyler forces Walt to move out in the wake of the airline disaster, while Jesse's rehab helps him come to grips with his role in the collision.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABf5VDLgMtf3g-Ln8aS0nEckd0mAw9yCRGDr6fuORaCKxC5x4Ik5FOsxf1ANPVnV1r5uPX5s3SFLDmpyYmNRjh7LkPxTVUOyuK9eZ6PRUXxEixbfukSnh3V8F.webp?r=46a",
+          "filename": "Breaking_Bad_S03E01.mkv",
+          "url": "https://filemoon.sx/e/bxav43f36153"
+        },
+        {
+          "title": "2. Caballo Sin Nombre",
+          "description": "With Skyler set on divorce, an unwitting Walt lands squarely in the crosshairs of two Mexican drug cartel hit men who are looking for revenge.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTuNueKrtdyr3Yv_7JptEd7EuBdS6gsInvWT7dOPirhS3I5zK2l8UrHA9Qqr8zA9fzronitA7v8HwvFJOzK8u2G3d02gT471uSzn77MqZ4ZuRgCTJr8UA0MH.webp?r=bbc",
+          "filename": "Breaking_Bad_S03E02.mkv",
+          "url": "https://filemoon.sx/e/ncbxrf56kmnj"
+        },
+        {
+          "title": "3. I.F.T.",
+          "description": "The tension mounts as Walt calls Skyler's bluff and moves back home without her consent, and Jesse ponders re-entering the drug trade.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABarWAbOCN0vq-TrthU-dXPVf9_aI4Wj-JhdvoOwWne2WoIxVIow5avsdMRAbQh0SlsgMzqacutJuhN69dankKjdsXDgSL8pZnfg01HknE_Wbgr7Tlk193Rdo.webp?r=68a",
+          "filename": "Breaking_Bad_S03E03.mkv",
+          "url": "https://filemoon.sx/e/fyfyo2obf9hx"
+        },
+        {
+          "title": "4. Green Light",
+          "description": "Walt gets involved when a new batch of meth puts Jesse back in business. Meanwhile, Skyler's affair with her boss is creating chaos.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABR-diqTkTnRqOtSXjZohbOF3bA6cWRSN1J86SXUts32MIzeiLyprNmfVhvPPIZ5Rq_CHXek7NSDnzv5PTcDiCK6vd2AeecoVWc1fj8o5XKB0MbZBV0iShQnz.webp?r=87b",
+          "filename": "Breaking_Bad_S03E04.mkv",
+          "url": "https://filemoon.sx/e/cjm5n1prx3fp"
+        },
+        {
+          "title": "5. Mas",
+          "description": "As Skyler reconsiders her objections to Walt's return, he mulls over returning to the drug trade. Also, Hank's obsession promises trouble for Jesse.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZT5Y_qMhVNAjN0Aj87EXcEsvWHdKQHqH9SUdYNHmtQb5Dqa97sOC7dRZtd8EVAgmXB_X5OaWnecQCM16t6N_Jqa3wUuz3p8bhNQg0Yz9S8XADeFTUK6-W47.webp?r=c68",
+          "filename": "Breaking_Bad_S03E05.mkv",
+          "url": "https://filemoon.sx/e/60jddbn32omv"
+        },
+        {
+          "title": "6. Sunset",
+          "description": "The discovery of Walt and Jesse's old RV forces them to act fast just as Walt resumes business in Gus's state-of-the-art meth lab.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQjRT5Zndgo5pt61frcHuSDE8OeYALbnbrpuKA4X4Zwtf_OsRQyfKdA4FCCWm3ptK3SjhNJ4O_IeJAie2g4zvNafrIPLEQ6glFFj9yNaEudVxhQMl8m8i8y1.webp?r=0b2",
+          "filename": "Breaking_Bad_S03E06.mkv",
+          "url": "https://filemoon.sx/e/ujejffqcc57z"
+        },
+        {
+          "title": "7. One Minute",
+          "description": "When Hank risks his career by attacking Jesse, Jesse vows to retaliate with a lawsuit, and Skyler looks to Walt to stop Jesse from pressing charges.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQ-vezHwF1XQm3DG95Ks8WpkYhq9Q09A022KgOR_0Ou7yqNsCco80gW7-rQD76vqdlrpn3OKrUVAxIyECnog63eRWE_ip1R3uEEww_2oLFmwtPHynsTuugof.webp?r=02b",
+          "filename": "Breaking_Bad_S03E07.mkv",
+          "url": "https://filemoon.sx/e/hkre3g5qbze3"
+        },
+        {
+          "title": "8. I See You",
+          "description": "With Hank clinging to life after surviving the drug cartel's attack, Walt looks to ward off trouble by taking on Jesse as a partner.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABe1cL78XYQkkBG1st9icBic1RcTaY4INRWdH0T27oyrLQUaubxNrXAAxWesl_sXUxQV6StjGAidnrPjZLAlxDbAT0D2H9Rg-J-E460o2wWcw_zCo0dgKOZdW.webp?r=c44",
+          "filename": "Breaking_Bad_S03E08.mkv",
+          "url": "https://filemoon.sx/e/07bjrcx8j0vh"
+        },
+        {
+          "title": "9. Kafkaesque",
+          "description": "While the prospects for Hank's recovery place Marie at odds with their insurance company, Jesse looks for a way to increase his take.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQje5zMREWWexV5jf-_I2jZfm5agosONrThC1Ms0ZyHy1HknMGuh7xbLIHTRB0AeOGwyWZF1WWkrxjUVsIlL-xM1oDVN0mA0S5UVLWpSoWtw7pKiBe02__Ak.webp?r=654",
+          "filename": "Breaking_Bad_S03E09.mkv",
+          "url": "https://filemoon.sx/e/y16ww4aleft8"
+        },
+        {
+          "title": "10. Fly",
+          "description": "A long, tense night in the meth lab pits Walt and Jesse against a pesky fly that refuses to die, no matter what they do.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXjz9s3zrjLKOGfn4_O03XKHVzwFeDW_jIKNH1f5UQQ-pPOmD4M8a60F1gz_1NEtwjhAx9xzIqOBkVSqtzEHqatUplsMzTQ2u5l1dIEcCatz5MjPqAWhKngq.webp?r=56c",
+          "filename": "Breaking_Bad_S03E10.mkv",
+          "url": "https://filemoon.sx/e/0u6vpf50r3ar"
+        }
+      ]
+    },
+    {
+      "Season 4": [
+        {
+          "title": "1. Box Cutter",
+          "description": "After a tense cliff-hanger that saw Walt and Jesse labouring for their lives, they wait anxiously to see what Gus will do next.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbYupN2X2h73vyOTGpEk1GA4vsJPevLIxnbvIHzhL7L3EV6c1QCNrcDDYc2BydnFpr79Ftj0C-OGu1-FpoXszje6SV8CsU7m0JWDtIgm9CrD9M1hoXb7EWLe.webp?r=d4d",
+          "filename": "Breaking_Bad_S04E01.mkv",
+          "url": "https://filemoon.sx/e/rt2xd1wwolif"
+        },
+        {
+          "title": "2. Thirty-Eight Snub",
+          "description": "While Walt prepares his defence against Gus, Jesse copes with the pressure by renewing his friendship with Badger and Skinny Pete.",
+          "duration": "46m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbWB1NNKkWS5C5kzQr4V1KSgzgXsfravkcVxa0p2v-RQ5-h9sl29f3CENTfKRDge9WaimudGbRoWnvGg9FB_Ou56pyvKGNxYJNjs9f0hJej8-yBQbURnkSq1.webp?r=6d1",
+          "filename": "Breaking_Bad_S04E02.mkv",
+          "url": "https://filemoon.sx/e/igo6tvm38yya"
+        },
+        {
+          "title": "3. Open House",
+          "description": "While Walt worries about Gus's interference and Jesse's increasingly fragile state of mind, Skyler steps up the pressure to get what she wants.",
+          "duration": "46m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeTZ7-xwRMtusGUGFTR4E5Qpf4xd7Hgk2U1fc_k2c-aTDBEu2PECtbwJrzVWW4qpT4WsWyW_aAqudOAQTqi_ah703rNLSUOuiqbluIyocz-gteheqh29MLuO.webp?r=ba4",
+          "filename": "Breaking_Bad_S04E03.mkv",
+          "url": "https://filemoon.sx/e/tkpy6mkpmytm"
+        },
+        {
+          "title": "4. Bullet Points",
+          "description": "As Skyler concocts an elaborate story to explain the Whites' finances, a worried Walt discovers that Hank has begun a new investigation.",
+          "duration": "45m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfs1h2-2XBoZgampM42dzRsR8BXGAZhTqOm3Tjx46nyjM3fNuPmr8s_BF7iCgInQBh2V6b5Teq4LFePSAZKpXLIMPD-JLtObrpYnaisTaN-s_XDSTJC1phMI.webp?r=bad",
+          "filename": "Breaking_Bad_S04E04.mkv",
+          "url": "https://filemoon.sx/e/uc8tl5wgciay"
+        },
+        {
+          "title": "5. Shotgun",
+          "description": "Jesse rides shotgun with Mike on a perilous run of pickups, prompting Walt to worry that his partner is about to be killed.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABR_s3YabDgyNZMVbc68EvIcWYSe7hzIejL-BENL_rn1_oYcUjR6F4tXpt5fYskmsULeqZTjlJeDFi3lQ_IDDdsI_FKgjSlMZ5fNHJlohtHUBAjpVO4q3kbRQ.webp?r=1d4",
+          "filename": "Breaking_Bad_S04E05.mkv",
+          "url": "https://filemoon.sx/e/6nnmf1so4vqu"
+        },
+        {
+          "title": "6. Cornered",
+          "description": "Skyler adopts an aloof approach when she suspects that Walt isn't telling her the truth. Meanwhile, Jesse proves his worth to Mike and Gus.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABesaEYDnI4SWHKkvWpKkidodlenyq0-fx5VQOX1pGfFRRPZdWsbCBTna_3xArWRZOWG95q5liupEVGFzWNDPMOZ1FVymjJ3tTotQHerIBwODMVhfASi0CdOt.webp?r=1b8",
+          "filename": "Breaking_Bad_S04E06.mkv",
+          "url": "https://filemoon.sx/e/r0vvrh4kl589"
+        },
+        {
+          "title": "7. Problem Dog",
+          "description": "Ordered to return the car he bought for his son, Walt strikes back by putting Skyler in a tough spot with their new money-laundering operation.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWVKmbmRNxerc2Or1n377wbYJrzQU8ih916vGrWTUKmzx-ph3J7A3K_CcOB-mr3S7-FiVRDyZ2IsQsFioJLztfHIc7oEOeTkdUPFrw-5l7W8DSqlPxGmzy6w.webp?r=156",
+          "filename": "Breaking_Bad_S04E07.mkv",
+          "url": "https://filemoon.sx/e/lfp5ulf16i20"
+        },
+        {
+          "title": "8. Hermanos",
+          "description": "When Hank produces evidence that Gus is Albuquerque's crystal meth kingpin, Walt worries that he and Jesse will be killed to protect their boss.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWAXn4vpoZVZgQGg2aES0FcepFxKMJwdbtwxPmOCkHHOTfZnEO00HblPEulE8dQ-4cZnHWRRqD5nhEBnfSgoGHRUKMkG8gMGErQuEq0q2WDsdDRS-9yRfj14.webp?r=bdc",
+          "filename": "Breaking_Bad_S04E08.mkv",
+          "url": "https://filemoon.sx/e/if2jq1o7rynd"
+        },
+        {
+          "title": "9. Bug",
+          "description": "While Walt tries to subvert Hank's probe into the Albuquerque meth scene, a deadly warning forces Gus to consider a deal with the Mexican cartel.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbbfPWqadmpl5AGibWFW4HclJsWZLM8PcUOlWQJxamNZ_r71vqnS-2U_5vHwM2Imt_R94o2_TREhO6mFfmLSU2sjUEt6064bgiS1wFSYw78QVHktfkA7wdlT.webp?r=023",
+          "filename": "Breaking_Bad_S04E09.mkv",
+          "url": "https://filemoon.sx/e/591wp09di6mf"
+        },
+        {
+          "title": "10. Salud",
+          "description": "With a badly battered Walt still recovering from the fight, Gus drags Jesse with him to Mexico to seal the deal with the cartel.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVohBd0a81xjrRmIrbvhRzHsdAsr6VPLNaf1wdgqHCjGcEOdWv0XHMy89W-u9_RysAFeOJFu7kjdLs596KnlhxrOYj1V831yGFXx1KI7uejPDzjPJSd3BWjF.webp?r=f28",
+          "filename": "Breaking_Bad_S04E10.mkv",
+          "url": "https://filemoon.sx/e/qa1jvqqkhe7q"
+        }
+      ]
+    },
+    {
+      "Season 5": [
+        {
+          "title": "1. Live Free Or Die",
+          "description": "Walt goes to see his family, still under guard, while dealing with the aftermath of the explosion at Casa Tranquila.",
+          "duration": "43m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRSWGOZI9YVuKirTlMt-o9cTHgunxYeV-WIUxuj8QrRpPyf8f6qXDtoNWelkV7ABoJ8txGW3FblS7FtW3CigQ3-upWrLUbwqxa1bxIMIhJUgDMaDIumFu7Lp.webp?r=428",
+          "filename": "Breaking_Bad_S05E01.mkv",
+          "url": "https://filemoon.sx/e/vqlcl75tjau2"
+        },
+        {
+          "title": "2. Madrigal",
+          "description": "Walt and Jesse decide to look for a new partner to help them in their latest scheme. The DEA sifts through various leads, hoping to find something.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcGSrw0fNEcLpWW9xdAwqVOwZID4b7U-_u8W2MXbjUD4WdAvlv37JuOIJwhOjdph0y_MdMdYwV_l6ynqhP7j9g7D5wAKO-e5ta3vtXXAWEtMzLtYm7CXgNG9.webp?r=be7",
+          "filename": "Breaking_Bad_S05E02.mkv",
+          "url": "https://filemoon.sx/e/xu5n9g2pexy7"
+        },
+        {
+          "title": "3. Hazard Pay",
+          "description": "To Skyler's dismay, Walter moves back into the house. Walter, Mike and Jesse meet with Saul to talk about finding a new place to cook.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZi2jRcXr_gk8FkvvmY36PcLuAtNRM3Emk1WWTM25pIrvU0qCAGTOnAs5n2wKMdAadXtrXTUXMyrNQv5hgaBv6cahypsZ00VrNNXxb0VVrk6WzdQpbBdTX2-.webp?r=237",
+          "filename": "Breaking_Bad_S05E03.mkv",
+          "url": "https://filemoon.sx/e/dzea8v46109y"
+        },
+        {
+          "title": "4. Fifty-One",
+          "description": "As Lydia gives up her own employee to the DEA, Mike offers her a replacement: Jesse. Walt and Skyler argue about whether the family is safe.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABU6XBK2Pq3mTeVAgHsxJC7Z0lYB2MoJN3DBXh26vSbAwC9l5u3Zh94R-hbHbkV7e1XMn2ckrXqEK64qsyPq-DUPaOxxTsDQ3JP3c0D_KkVh2mJVNKoF2PxOu.webp?r=0b5",
+          "filename": "Breaking_Bad_S05E04.mkv",
+          "url": "https://filemoon.sx/e/o3ch0chkg43q"
+        },
+        {
+          "title": "5. Dead Freight",
+          "description": "Mike and Lydia work to get the methylamine transported for the operation. Walt and Jesse try to come up with a plan that won't blow their cover.",
+          "duration": "48m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTNm2MF1sdRetT4nMSXfPNXrIoiNMvW5HF0ilV3ExWmfptiwNAO4bGQOWpWN4Wfhxr81MMEZjjUd-gh6niypBoPFkc5AVndW2B1Ek0K2mqnHfZQXjXt8tvMB.webp?r=dd9",
+          "filename": "Breaking_Bad_S05E05.mkv",
+          "url": "https://filemoon.sx/e/lr2tr5w8frpb"
+        },
+        {
+          "title": "6. Buyout",
+          "description": "Walt, Mike and Jesse deal with the repercussions of the methylamine heist. Mike and Jesse want out, but Walt is determined to build his empire.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZWPlIgVU1AmKlwLm6XpBaK_4yWj0BpG2ED89ZMR2jkCXSYFPQtOEvGfLYxdt6pQybabZlkbL6lhNG_fqSRd5Hfo0ezLJgqcbqaxJeLRFHt8tLJt_FMBAufC.webp?r=296",
+          "filename": "Breaking_Bad_S05E06.mkv",
+          "url": "https://filemoon.sx/e/s1v65vluz3wu"
+        },
+        {
+          "title": "7. Say My Name",
+          "description": "Walter tries to strike up a deal with Declan. Told to lay off Mike, Hank switches his focus to the lawyer who's been paying off Mike's men.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTsG3GOVbpnsgbcftfHnUT23hfG14HpgbtAWXmWNA54M6Ww6yLT4rUCagp7Yk3fxmZNfGcPe-KRO6Odx0F9m-30QNJNtjbRVmQ_hoUNbN_iszpQGLXzpvFWU.webp?r=b33",
+          "filename": "Breaking_Bad_S05E07.mkv",
+          "url": "https://filemoon.sx/e/r5khwcff3e46"
+        },
+        {
+          "title": "8. Gliding Over All",
+          "description": "Walt meets with Lydia to get the names of Mike's people in prison. Skyler makes another attempt to convince Walt to give up cooking meth.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcksvoa42egqvP-TxTwiBN7dHqix-EtcznaO5Hd2K8-7RRjgu3WVO4shLfhY3zDktZzMttRZ9x8q20uErnqCSBciG3--C5VzyVRQN_Q38fxEVlhknwvfQfD4.webp?r=18d",
+          "filename": "Breaking_Bad_S05E08.mkv",
+          "url": "https://filemoon.sx/e/7492bm8tsqqf"
+        },
+        {
+          "title": "9. Blood Money",
+          "description": "As Walt and Jesse adjust to life out of the business, Hank grapples with a troubling lead.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABc1YmHbbdKqJ558ZfiWFCSYw3Y8rGd6OssFx4oLOtlv4dEzZVBunQf8jjAsQAgBH0ZSSIt6SIZ4twqwhzzKNR8hsn5dzHRJUuDdV031ZX9ShyStZJh6LGcSI.webp?r=917",
+          "filename": "Breaking_Bad_S05E09.mkv",
+          "url": "https://filemoon.sx/e/rydvlbccpu3n"
+        },
+        {
+          "title": "10. Buried",
+          "description": "While Skyler's past catches up with her, Walt covers his tracks. Jesse continues to struggle with his guilt.",
+          "duration": "47m",
+          "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABW9JATzGBZcacA9LCAMgSrU8mKYJUhXM9_N7stcIlPNYAZa77ySu13xsl0BJU_pB_PiZ0QiNFQlGjh6e3_BbWBKtvZvd_7zhHmyorbQE4uasUYfT2plCZpEP.webp?r=30d",
+          "filename": "Breaking_Bad_S05E10.mkv",
+          "url": "https://filemoon.sx/e/67nnxzs4hvkp"
+        }
+      ]
+    }
+  ]
+}

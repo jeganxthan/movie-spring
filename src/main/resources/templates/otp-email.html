@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OTP Verification</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f9fc;
+            color: #333;
+            padding: 0;
+            margin: 0;
+        }
+
+        .container {
+            max-width: 480px;
+            margin: 40px auto;
+            background: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 3px 15px rgba(0,0,0,0.08);
+            padding: 30px 25px;
+        }
+
+        h2 {
+            color: #1d4ed8;
+            font-size: 22px;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+
+        p {
+            font-size: 15px;
+            line-height: 1.6;
+            text-align: center;
+        }
+
+        .otp-box {
+            text-align: center;
+            margin: 25px 0;
+        }
+
+        .otp {
+            font-size: 28px;
+            font-weight: bold;
+            letter-spacing: 6px;
+            color: #111827;
+            background: #f3f4f6;
+            display: inline-block;
+            padding: 12px 20px;
+            border-radius: 8px;
+        }
+
+        .footer {
+            text-align: center;
+            color: #6b7280;
+            font-size: 13px;
+            margin-top: 25px;
+        }
+
+        .brand {
+            color: #1e3a8a;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Verify Your Email Address</h2>
+
+        <p>Hello,</p>
+
+        <p>Use the OTP below to complete your registration or login verification. 
+           This code is valid for <strong>5 minutes</strong>.</p>
+
+        <div class="otp-box">
+            <span class="otp" th:text="${otp}">123456</span>
+        </div>
+
+        <p>If you didn’t request this code, you can safely ignore this email.</p>
+
+        <div class="footer">
+            — <span class="brand">jeganathan</span> —
+        </div>
+    </div>
+</body>
+</html>
