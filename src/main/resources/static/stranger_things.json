@@ -1,0 +1,274 @@
+{
+    "show_title": "Stranger Things",
+    "year": "2025",
+    "seasons": "5 Seasons",
+    "rating": "\u2068U/A 16+\u2069",
+    "genre": "Sci-Fi",
+    "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
+    "starring": "Winona Ryder, David Harbour, and Millie Bobby Brown",
+    "creators": "Winona Ryder, David Harbour, and Millie Bobby Brown",
+    "genres": "TV Dramas, Sci-Fi TV, Teen TV Shows, US TV Shows, and Horror TV Serials",
+    "show_characteristics": "Ominous, Nostalgic, Sci-Fi TV, Notable Soundtrack, Psychic Power, 1980s, Golden Globe Nominee, Scary, Conspiracy, Horror, and Teen",
+    "audio": "English - Audio Description, English [Original], Hindi - Audio Description, Hindi, Tamil, and Telugu",
+    "subtitles": "English, Hindi",
+    "cast": "Winona Ryder, David Harbour, Millie Bobby Brown, Finn Wolfhard, Gaten Matarazzo, Caleb McLaughlin, Noah Schnapp, Sadie Sink, Natalia Dyer, and Charlie Heaton",
+    "Poster": "https://en.wikipedia.org/wiki/Stranger_Things",
+    "seasons_data": [
+        {
+            "Season 2": [
+                {
+                    "title": "1. Chapter One: MADMAX",
+                    "description": "As the town preps for Halloween, a high-scoring rival shakes things up at the arcade, and a skeptical Hopper inspects a field of rotting pumpkins.",
+                    "duration": "49m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQ4oKAWrN4cmP9WS2Edhoy9uE78aX65S31Eau-R62YPr0776rkX4CPJWitDRdQuQ7nWnb3G-ZFtEyxMdO3WfkYMiZ5rRfBD8Bk0kJBT_fSytzk_C4gCYDM7C.webp?r=9e5",
+                    "filename": "Stranger_Things_S02E01.mkv",
+                    "url": "https://filemoon.sx/e/tsspsvabxqve"
+                },
+                {
+                    "title": "2. Chapter Two: Trick or Treat, Freak",
+                    "description": "After Will sees something terrible on trick-or-treat night, Mike wonders whether Eleven's still out there. Nancy wrestles with the truth about Barb.",
+                    "duration": "56m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdmcbnONaDwrvpYTrwRbzeuetSXSYs3JQtaKBWfipYW3Ei88o39IxlMniqWbM2umT0fxJDHQD-DBj4YpwBLfn-OyqmyZtmcse0pB2FROkVwgTsnOECIpZJep.webp?r=2e8",
+                    "filename": "Stranger_Things_S02E02.mkv",
+                    "url": "https://filemoon.sx/e/vpm9sd64345r"
+                },
+                {
+                    "title": "3. Chapter Three: The Pollywog",
+                    "description": "Dustin adopts a strange new pet, and Eleven grows increasingly impatient. A well-meaning Bob urges Will to stand up to his fears.",
+                    "duration": "51m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRVxd-aJ71LZPcANkX098UiS7bjSE96DVYowZ-CD_L9Ply2t9s-60_jk3vcZgCdbGVfiIecD7qdws0ZHgJB2Kn3FXxFCtDuG8447siQbwTiB9Xb8qBwJw9Tl.webp?r=cfc",
+                    "filename": "Stranger_Things_S02E03.mkv",
+                    "url": "https://filemoon.sx/e/k3i44annb519"
+                },
+                {
+                    "title": "4. Chapter Four: Will the Wise",
+                    "description": "An ailing Will opens up to Joyce -- with disturbing results. While Hopper digs for the truth, Eleven unearths a surprising discovery.",
+                    "duration": "47m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcFoPwGrRgbIZxnbopoLAE8oI4sZ-9bXsBHCSD3YpoxcyoxEqGW-t1vlnxaYzeVUw58anFdBZzhvshNoLCMxRbrBdu8KlGGplVg5CCGJX3Ii1GY7CNSG6tEv.webp?r=cb5",
+                    "filename": "Stranger_Things_S02E04.mkv",
+                    "url": "https://filemoon.sx/e/d0nxteisyo3v"
+                },
+                {
+                    "title": "5. Chapter Five: Dig Dug",
+                    "description": "Nancy and Jonathan swap conspiracy theories with a new ally as Eleven searches for someone from her past. \u201cBob the Brain\u201d tackles a difficult problem.",
+                    "duration": "59m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd1PnXpRUh9uEQ-xe7KWLIjW-sOiEX5-LgtQif86akf54tC1c8vdpC984uNSrZvkdx1jvAiqUU54QWyxqYcG6r_iJ-Lc1MwHeft7DllK1G_MKNBFx3WLclc2.webp?r=e06",
+                    "filename": "Stranger_Things_S02E05.mkv",
+                    "url": "https://filemoon.sx/e/wl99eq8nlt2q"
+                },
+                {
+                    "title": "6. Chapter Six: The Spy",
+                    "description": "Will's connection to a shadowy evil grows stronger, but no one's quite sure how to stop it. Elsewhere, Dustin and Steve forge an unlikely bond.",
+                    "duration": "52m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTP849wa-TeEJHHeWvlXFo4ES741iRtJwsSzj9EHCc_O-XEGwl7M82aQjxN6s-dAAmuQTFFUiPTo1Ev_hp7EOGeSRxsub4dcn1nScSFMsRVcW-yz5iaAosbq.webp?r=333",
+                    "filename": "Stranger_Things_S02E06.mkv",
+                    "url": "https://filemoon.sx/e/k71ym30mr7hy"
+                },
+                {
+                    "title": "7. Chapter Seven: The Lost Sister",
+                    "description": "Psychic visions draw Eleven to a band of violent outcasts and an angry girl with a shadowy past.",
+                    "duration": "46m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaFRIv26PRL2xZGYkPRChq_tzFkByL_botGGWj0UUFm02APfaIMTT_e8Yn04vqCFst0miEn4RskUjiw7dYO-S0Sc9l7Uj2mEsJbqBQMVsfCcqft0PlbCicbW.webp?r=db8",
+                    "filename": "Stranger_Things_S02E07.mkv",
+                    "url": "https://filemoon.sx/e/u4qkrs03ogh9"
+                },
+                {
+                    "title": "8. Chapter Eight: The Mind Flayer",
+                    "description": "An unlikely hero steps forward when a deadly development puts the Hawkins Lab on lockdown, trapping Will and several others inside.",
+                    "duration": "48m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABR97Mn3DZfoYijbst9dRqkfyJydR8_bu54X_aSQT4GmrHwoPwmgYoST7lqm8PX2xgjPWHQSiGd0mn4kkJCIYBmD_FlJQU2PiO1BR9GN9GGs1OZPig6c0XDgQ.webp?r=e0e",
+                    "filename": "Stranger_Things_S02E08.mkv",
+                    "url": "https://filemoon.sx/e/lvzf2i5efzaq"
+                },
+                {
+                    "title": "9. Chapter Nine: The Gate",
+                    "description": "Eleven makes plans to finish what she started while the survivors turn up the heat on the monstrous force that's holding Will hostage.",
+                    "duration": "1h 2m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbyw5f07elgEau472_b4ukKtS0AMr3F-_eZ96eCEb9aEnAa5-fE6TWM4PqDJi8EL1KFx6LCcXKlkpzwekFiUTx6hFfoulkhGoRyZ8CU3OmM71MO8tjqJe_me.webp?r=770",
+                    "filename": "Stranger_Things_S02E09.mkv",
+                    "url": "https://filemoon.sx/e/y7tm6p9z8t1m"
+                }
+            ]
+        },
+        {
+            "Season 3": [
+                {
+                    "title": "1. Chapter One: Suzie, Do You Copy?",
+                    "description": "Summer brings new jobs and budding romance. But the mood shifts when Dustin's radio picks up a Russian broadcast, and Will senses something is wrong.",
+                    "duration": "51m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQjZUl-leFpr9kOEdgrw4zcmoEILmFUeLcblS5s8O0dlkpve7_MJN1ud7GkuXatlYXexopvwnf_y0S9MukLzPa0CnTJdTKPDa60kC0zPodH2ryrtFOYwKdzP.webp?r=8c4",
+                    "filename": "Stranger_Things_S03E01.mkv",
+                    "url": "https://filemoon.sx/e/hglpc9cnajpb"
+                },
+                {
+                    "title": "2. Chapter Two: The Mall Rats",
+                    "description": "Nancy and Jonathan follow a lead, Steve and Robin sign on to a secret mission, and Max and Eleven go shopping. A rattled Billy has troubling visions.",
+                    "duration": "50m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcLyXOqpeq_J3scc_DfsAxx4dTvaa9G8Ww71RSXtoeSB17uYUqFkgkEAIX_h2oNa3R7gqz2MjDMt6QYVJdZrxwIsfWoeC-8g_oXGeB0v4r_gZaLBFjhz7fqD.webp?r=573",
+                    "filename": "Stranger_Things_S03E02.mkv",
+                    "url": "https://filemoon.sx/e/wfrrd7fj1m3d"
+                },
+                {
+                    "title": "3. Chapter Three: The Case of the Missing Lifeguard",
+                    "description": "With El and Max looking for Billy, Will declares a day without girls. Steve and Dustin go on a stakeout, and Joyce and Hopper return to Hawkins Lab.",
+                    "duration": "50m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYUD8zxTe76x_EVFDIHZ8wEFlGUIS_TZib2EY1Svf8ow6EtQL_RQn-zlUvimhnTraD6Y5HXu9ITqWicu7OioiIMJRtiTrBcLXRLtkdPGz-JayEOP3pFqgmPG.webp?r=205",
+                    "filename": "Stranger_Things_S03E03.mkv",
+                    "url": "https://filemoon.sx/e/5pk4d0z1pisl"
+                },
+                {
+                    "title": "4. Chapter Four: The Sauna Test",
+                    "description": "A code red brings the gang back together to face a frighteningly familiar evil. Karen urges Nancy to keep digging, and Robin finds a useful map.",
+                    "duration": "53m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdzQbqq-bXtYMk5cubycyA4FQyeNgAPjrDt2qKpPU_uQnakye9x-m4X4U6GA1AqaCGnVGe4wIedPTBQHjMDCQkUCApwmxQEXLSoL_gFLSSvgkN209l7fJmbF.webp?r=e10",
+                    "filename": "Stranger_Things_S03E04.mkv",
+                    "url": "https://filemoon.sx/e/uk84ny9be52r"
+                },
+                {
+                    "title": "5. Chapter Five: The Flayed",
+                    "description": "Strange surprises lurk inside an old farmhouse and deep beneath the Starcourt Mall. Meanwhile, the Mind Flayer is gathering strength.",
+                    "duration": "52m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWjyQZ6ck1OyI9M2_IYnbuj30k1ttJbvUcFmQAUGG62QS2qntJFfM78lfM_DI81ttD_Rp_n-Rkb7bcosu7OHCBZKrsJYDVDHdigaqoGLRf20dGvhyYvhIBUM.webp?r=3b7",
+                    "filename": "Stranger_Things_S03E05.mkv",
+                    "url": "https://filemoon.sx/e/dwotx70qjns8"
+                },
+                {
+                    "title": "6. Chapter Six: E Pluribus Unum",
+                    "description": "Dr. Alexei reveals what the Russians have been building, and Eleven sees where Billy has been. Dustin and Erica stage a daring rescue.",
+                    "duration": "1h",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABagG2pE-EitIgclLhiXDJu8OLQIRtbZ34QrHqEbc53mBt0F4R14YoNbg9n5RN33OG-B4J8Kxxu2P6uEX9ff_ly_vrd-HGYsPDh3BDiGJDU9RJWvqk72p_Cj4.webp?r=bd7",
+                    "filename": "Stranger_Things_S03E06.mkv",
+                    "url": "https://filemoon.sx/e/871ts1izp4v4"
+                },
+                {
+                    "title": "7. Chapter Seven: The Bite",
+                    "description": "With time running out \u2014 and an assassin close behind \u2014 Hopper's crew races back to Hawkins, where El and the kids are preparing for war.",
+                    "duration": "55m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbb86odWtsmTqX-gjA_FZGx6JCW9OI-vlZjOhyxoQktuLypyVXfJscbxqEOZUsZorkHL-yduh5MQOEJVu9etcWN4yOaV4CjjN-U.webp?r=ab6",
+                    "filename": "Stranger_Things_S03E07.mkv",
+                    "url": "https://filemoon.sx/e/fr1v4sflhgke"
+                },
+                {
+                    "title": "8. Chapter Eight: The Battle of Starcourt",
+                    "description": "Terror reigns in the food court when the Mind Flayer comes to collect. But down below, in the dark, the future of the world is at stake.",
+                    "duration": "1h 18m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcMTX006rhNxSuJJvIzSEsqdDnDKtC5uThKsJWxf076sukd_G72iquKzfucjspPkk4xB_kRHL-FgvXOsGp069TB56Z-fsACt1uObinzulDTb2RPXEmh82Ayp.webp?r=cf4",
+                    "filename": "Stranger_Things_S03E08.mkv",
+                    "url": "https://filemoon.sx/e/1rtg872byd9l"
+                }
+            ]
+        },
+        {
+            "Season 4": [
+                {
+                    "title": "1. Chapter One: The Hellfire Club",
+                    "description": "El is bullied at school. Joyce gets a mysterious package. A scrappy player shakes up D&D night. Warning: Contains graphic violence involving children.",
+                    "duration": "1h 18m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABayoXE-nWyz9Avh0Jys_HlagU0RzCmckdKg74FSgbbVkI1k4AVGab5mVTuKBtRpi3KvOlRTuSELoACWFjaUcbYM7XRDt-Z6A18ZIZtcDO-IYPFRkv3AMKqtc.webp?r=fa2",
+                    "filename": "Stranger_Things_S04E01.mkv",
+                    "url": "https://filemoon.sx/e/rvl46oecee5a"
+                },
+                {
+                    "title": "2. Chapter Two: Vecna's Curse",
+                    "description": "A plane brings Mike to California \u2014 and a dead body brings Hawkins to a halt. Nancy goes looking for leads. A shaken Eddie tells the gang what he saw.",
+                    "duration": "1h 18m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd5ub6a_Vt6R-QM0GMWEfiCJtZ0INr-_ksWxwP6JYMW-dZExnx2g7iM2x0o8JULKbiwSFUDRgiE0_VYbyaXVpUMj0VsfAICa_fTISK9USm7uM5-Dn5dBJ53G.webp?r=74f",
+                    "filename": "Stranger_Things_S04E02.mkv",
+                    "url": "https://filemoon.sx/e/kz4hz1t8eq5o"
+                },
+                {
+                    "title": "3. Chapter Three: The Monster and the Superhero",
+                    "description": "Murray and Joyce fly to Alaska, and El faces serious consequences. Robin and Nancy dig up dirt on Hawkins' demons. Dr. Owens delivers sobering news.",
+                    "duration": "1h 5m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRt24ujSTIkm8IzwDTlDedQ_nX0ODO9ranlsttgmak-Ik2fj-D1UTcd26gPulBLyL9B193qtKP28V5N-RGIkGmLkE7UCZlGqmZ1MFmt9jwMO6qe7m2OLjU-K.webp?r=c5c",
+                    "filename": "Stranger_Things_S04E03.mkv",
+                    "url": "https://filemoon.sx/e/paxxhoey4z1t"
+                },
+                {
+                    "title": "4. Chapter Four: Dear Billy",
+                    "description": "Max is in grave danger... and running out of time. A patient at Pennhurst Asylum has visitors. Elsewhere, in Russia, Hopper is hard at work.",
+                    "duration": "1h 19m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABX486ESQZ9GbpdsXeNejuzNqa-Droi1XJqq04KAep83QOWEyX74OXNO9PVDlcRtUsGLQDIGc9rLJvZhXWV_R3ks84r4vbMbaJyeX2cykYQQp0BCD_jskLMfO.webp?r=ea8",
+                    "filename": "Stranger_Things_S04E04.mkv",
+                    "url": "https://filemoon.sx/e/hy12v0yybehw"
+                },
+                {
+                    "title": "5. Chapter Five: The Nina Project",
+                    "description": "Owens takes El to Nevada, where she's forced to confront her past, while the Hawkins kids comb a crumbling house for clues. Vecna claims another victim.",
+                    "duration": "1h 17m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVWV6OTK5JiXeLJ9SrLbWk0zm-V1aeQE4tRxYqUu0dcCPv3bf-rPnunsFyJrusVRloTL8v9-q-VeOtQndcwmRQ2xmLV-grTI8w_O2x17ZYxwIDCeJhZVFFLM.webp?r=585",
+                    "filename": "Stranger_Things_S04E05.mkv",
+                    "url": "https://filemoon.sx/e/zx1puzbcxm9s"
+                },
+                {
+                    "title": "6. Chapter Six: The Dive",
+                    "description": "Behind the Iron Curtain, a risky rescue mission gets underway. The California crew seeks help from a hacker. Steve takes one for the team.",
+                    "duration": "1h 15m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaoM_6VhMHOyeIWvexbt3jnr6hb6yZYsuWOfYlW5nQV-ZvP2BkodvT6eNf6ckLZFTjGaP_pwHpBnNL75bFeCclf5GuvgHb7sTM-FBGXd6W6ckDNsU4QWIUGA.webp?r=9c9",
+                    "filename": "Stranger_Things_S04E06.mkv",
+                    "url": "https://filemoon.sx/e/lujovbhjrgml"
+                },
+                {
+                    "title": "7. Chapter Seven: The Massacre at Hawkins Lab",
+                    "description": "As Hopper braces to battle a monster, Dustin dissects Vecna's motives \u2014 and decodes a message from beyond. El finds strength in a distant memory.",
+                    "duration": "1h 41m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXOB2O4P7AwhGD5jKbcB9_IpMa_ANA9yegp8lZeuorWQlDCnncv8ygmjXWx6xekSKZvDKaFIn72xEm7-H-9BRFRrmi3-DXJ39bG-o1QoQYJ05W56u9XTPLRT.webp?r=759",
+                    "filename": "Stranger_Things_S04E07.mkv",
+                    "url": "https://filemoon.sx/e/odhi23t4xmov"
+                },
+                {
+                    "title": "8. Chapter Eight: Papa",
+                    "description": "Nancy has sobering visions, and El passes an important test. Back in Hawkins, the gang gathers supplies and prepares for battle.",
+                    "duration": "1h 27m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfwvK-Fo6_upM6fQS4mn_squthoCZ6DqwHvUsD0cdm-VbkndlJEysLeCT1UDlxXtpTA97ZriB6M0-Pvku1i0c2jEF9eEurPAAVjaPtLqbzyN-z78ZRsiOKYC.webp?r=94c",
+                    "filename": "Stranger_Things_S04E08.mkv",
+                    "url": "https://filemoon.sx/e/i11s8pr9q4ac"
+                },
+                {
+                    "title": "9. Chapter Nine: The Piggyback",
+                    "description": "With selfless hearts and a clash of metal, heroes fight from every corner of the battlefield to save Hawkins \u2014 and the world itself.",
+                    "duration": "2h 22m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABW6ZFfyIS11kXi1vpCIVhh3N00mz_2dSNFNgO1pe-aM9uGPU-y6f3KJlm-PE8QKuiluCNu97W9dk2wGTQctSK87z4y0-Nm-M5MGFhcZGkYyXeHElywoEyWcq.webp?r=7f8",
+                    "filename": "Stranger_Things_S04E09.mkv",
+                    "url": "https://filemoon.sx/e/8qdtd9n24aqj"
+                }
+            ]
+        },
+        {
+            "Season 5": [
+                {
+                    "title": "1. Chapter One: The Crawl",
+                    "description": "November, 1987. The gang evades the military to scour the Upside Down for Vecna \u2014 but fails to notice a threat lurking closer to home.",
+                    "duration": "1h 11m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfAAOeXd29cw2McCHLxeZhIT_9Pkuc37-_AfY-DHovO2sNdU_zohe9wHVV27wS1RCwItxc3-5ikCAAfkqBdchdBFzD2zaQ92IL52MKndCM3mxXGzCCd75eoZ.webp?r=f18",
+                    "filename": "Stranger_Things_S05E01.mkv",
+                    "url": "https://filemoon.sx/e/kvlof86qbrk8"
+                },
+                {
+                    "title": "2. Chapter Two: The Vanishing of Holly Wheeler",
+                    "description": "After a vicious attack at the Wheeler home, Mike and Nancy confront the cost of secrecy, while El and Hopper embark on a rescue mission.",
+                    "duration": "57m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfl5xSzE62nO08ulwreZV7dSAxcSGsUrYnCyQdCZBOI0_vCDHwRLOijyuUoHlm3nFIZfy1HJTlUYfT8tLjyRgXJmWk_mPUpkuzc-xkyKtt9OidXHhbl7R6Hd.webp?r=4c0",
+                    "filename": "Stranger_Things_S05E02.mkv",
+                    "url": "https://filemoon.sx/e/7cninza9r90u"
+                },
+                {
+                    "title": "3. Chapter Three: The Turnbow Trap",
+                    "description": "Will gains unique insight into Vecna's next move, giving the crew an opportunity to set a trap. Holly explores her new surroundings.",
+                    "duration": "1h 9m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTevAwKSVn9IPzFkCT1knuNshuUq2-4kIkKW8YksGd-TolSszh4BmQMywYAbWI28inYYrfq1bYbY5gy9f4UP_7MXTjWHcsPmthYelt87TLGtB-rocpYjHkt8.webp?r=0a8",
+                    "filename": "Stranger_Things_S05E03.mkv",
+                    "url": "https://filemoon.sx/e/7fatbornzvk4"
+                },
+                {
+                    "title": "4. Chapter Four: Sorcerer",
+                    "description": "The military tightens its grip on the town. Mike, Lucas and Robin orchestrate a daring escape. El comes face-to-face with the enemy.",
+                    "duration": "1h 26m",
+                    "image_url": "https://occ-0-7275-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYdYPldH5JLYn3eo4f-F-g4RegGemKFCTmNGVDYswOrJcElP-7X2UEanIcwCmRZuwY6xRyjue3D5Iwjykn9a1jIGS_IrP2ZkxZkE2g63WwqRypTghjgWDSnY.webp?r=5db",
+                    "filename": "Stranger_Things_S05E04.mkv",
+                    "url": "https://filemoon.sx/e/b721yogttzm8"
+                }
+            ]
+        }
+    ]
+}
